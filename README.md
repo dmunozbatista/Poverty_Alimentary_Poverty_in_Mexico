@@ -10,4 +10,4 @@ Data source for public spending and federal debt: https://www.banxico.org.mx/Sie
 
 Data source for price index: https://www.inegi.org.mx/datosabiertos/
 
-![Alt text](/Users/danielm/Documents/UChicago/Harris/data_visualization/Poverty_Alimentary_Poverty_in_Mexico/static_final/ss_readme/Screenshot 2024-11-04 at 2.26.50 AM.png?raw=true "Optional Title")
+![Alt text](static_final/ss_readme/ss_final_1.png?raw=true "Optional Title")
