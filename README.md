@@ -10,4 +10,9 @@ Data source for public spending and federal debt: https://www.banxico.org.mx/Sie
 
 Data source for price index: https://www.inegi.org.mx/datosabiertos/
 
+## Links to other sections
+
+## Please download final_document.pdf for better resolution
+
 ![Alt text](static_final/ss_readme/ss_final_1.png?raw=true "Optional Title")
+![Alt text](static_final/ss_readme/ss_final_2.png?raw=true "Optional Title")
