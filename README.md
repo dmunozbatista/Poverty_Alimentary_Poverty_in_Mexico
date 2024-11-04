@@ -10,6 +10,3 @@ Data source for public spending and federal debt: https://www.banxico.org.mx/Sie
 
 Data source for price index: https://www.inegi.org.mx/datosabiertos/
 
-## Questions:
-
-I would like to find more variables that would be nice to correlate with poverty, can you think of any? The datasets already have variables such as education level or wheteher the house has underage individuals or not. I would like to include more demographic variables or state performance variables, but Mexico use to lack that data type.
